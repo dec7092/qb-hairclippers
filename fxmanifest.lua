@@ -1,10 +1,10 @@
 fx_version 'adamant'
 server_scripts {
-	'server.lua'
+	'server/server.lua'
 }
 
 client_scripts {
-	"client.lua"
+	"client/client.lua"
 }
 
 
